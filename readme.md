@@ -3,8 +3,9 @@ A curated collection of UI design work and product development projects complete
 
 ## 📁 File Information
 - **Format:** PDF (Interactive Portfolio)
-- **Projects Included:** [List 2-3 specific projects, e.g., "MAP Growth Reporting Dashboard", "Teacher Tooling Redesign"]
-- **Primary Tools:** Figma, Adobe Creative Suite, [Insert other tools like Jira or Sketch]
+- **Projects Included:** NWEA MAP Student Testing Application (React / Older Angular version), NWEA MAP Design System React Applicaiton
+- **Primary Tools:** Typescript, Typescript JSX, JavaScript, ReactJS, CSS Modules, Web Components,
+Ava/Jest (Unit Testing), Cypress (Functional Testing), Jenkins, Git, Figma
 
 ## 🎯 Overview
 This document illustrates my contribution to NWEA’s mission of supporting K-12 educators and students through research-based assessment solutions. It showcases:
