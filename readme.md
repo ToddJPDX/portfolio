@@ -2,9 +2,18 @@
 A curated collection of UI design work and product development projects completed during my tenure at NWEA.
 
 ## 📁 File Information
-- **Format:** PDF (Interactive Portfolio)
-- **Projects Included:** [List 2-3 specific projects, e.g., "MAP Growth Reporting Dashboard", "Teacher Tooling Redesign"]
-- **Primary Tools:** Figma, Adobe Creative Suite, [Insert other tools like Jira or Sketch]
+- **Format:** PDF 
+- **Projects Included:** 
+
+    -  NWEA Measures of Academic Progress (MAP) Student assessment
+application, AngularJS
+
+    - NWEA Measures of Academic Progress (MAP) Student assessment
+application, ReactJS 
+
+    - NWEA Product Engineering Design System site 
+
+- **Primary Tools:** React, AngularJS, Javascript, Typescript, Jest, Cypress, Playwrite, CSS
 
 ## 🎯 Overview
 This document illustrates my contribution to NWEA’s mission of supporting K-12 educators and students through research-based assessment solutions. It showcases:
