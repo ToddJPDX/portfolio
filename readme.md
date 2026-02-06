@@ -17,9 +17,9 @@ application, ReactJS
 
 ## 🎯 Overview
 This document illustrates my contribution to NWEA’s mission of supporting K-12 educators and students through research-based assessment solutions. It showcases:
-- **Design Process:** From initial wireframes to high-fidelity UI.
+- **Design Process:** Initial wireframes to high-fidelity UI.
 - **Accessibility:** UI solutions designed for WCAG compliance.
-- **Impact:** How these designs improved user workflows for educators and students.
+- **Impact:** High-impact frontend solutions I created and worked on at NWEA spanning both student-facing and internal products. The student assessment testing platforms are used by millions of students across the U.S., ensuring reliable, performant testing experiences. Additionally, I architected, developed, and managed an internal documentation portal that became the single source of truth for Design System patterns and accessibility standards, enabling faster, more consistent product development across engineering teams.
 
 ## 🛠️ Usage
 - Open with any standard PDF viewer (Adobe Acrobat, Chrome, etc.).
